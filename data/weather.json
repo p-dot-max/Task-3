@@ -1,0 +1,60 @@
+{
+  "timestamp": "2025-01-14T23:35:00Z",
+  "location": {
+    "city": "Bengaluru",
+    "country": "IN",
+    "latitude": 12.9716,
+    "longitude": 77.5946
+  },
+  "current_weather": {
+    "temperature_celsius": 21.5,
+    "temperature_fahrenheit": 70.7,
+    "condition": "Clear Sky",
+    "description": "A pleasant night with a clear sky.",
+    "humidity_percent": 60,
+    "wind_speed_kph": 5.2,
+    "icon": "01n"
+  },
+  "forecast": [
+    {
+      "date": "2025-01-15",
+      "day_of_week": "Thursday",
+      "max_temp_celsius": 28.0,
+      "min_temp_celsius": 16.0,
+      "condition": "Sunny",
+      "icon": "01d"
+    },
+    {
+      "date": "2025-01-16",
+      "day_of_week": "Friday",
+      "max_temp_celsius": 27.5,
+      "min_temp_celsius": 16.5,
+      "condition": "Partly Cloudy",
+      "icon": "02d"
+    },
+    {
+      "date": "2025-01-17",
+      "day_of_week": "Saturday",
+      "max_temp_celsius": 26.0,
+      "min_temp_celsius": 17.0,
+      "condition": "Light Rain",
+      "icon": "10d"
+    },
+    {
+      "date": "2025-01-18",
+      "day_of_week": "Sunday",
+      "max_temp_celsius": 25.5,
+      "min_temp_celsius": 16.5,
+      "condition": "Rain Showers",
+      "icon": "09d"
+    },
+    {
+        "date":"2026-01-15",
+        "day_of_week": "Thursday",
+        "max_temp_celsius": 29.0,
+        "min_temp_celsius": 15.0,
+        "condition": "Freezing Cold",
+        "icon": "11d"
+    }
+  ]
+}
