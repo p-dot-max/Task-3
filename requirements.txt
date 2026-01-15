@@ -4,4 +4,11 @@ groq
 chromadb
 langchain
 sentence-transformers
-sqlite3
+langchain-groq
+langchain-text-splitters
+langchain-community
+langchain-chroma
+langchain-nomic
+unstructured
+markdown
+einops
