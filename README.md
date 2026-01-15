@@ -26,14 +26,7 @@ The system consists of the following components:
    - **SQL Database (SQLite)** - Stores chat history, tool usage logs, and session tracking
    - **ChromaDB** - Vector database for document embeddings and semantic search
 
-### Data Flow
-```
-User Question → Agent → Tool Selection → Tool Execution → Response
-                 ↓                           ↓
-           SQL Memory ← ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ┘
-                 ↓
-        (Chat logs + Tool usage)
-```
+
 
 ## Setup Instructions
 
