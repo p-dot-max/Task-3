@@ -494,9 +494,3 @@ venv\Scripts\activate  # Windows
 # Reinstall dependencies
 pip install -r requirements.txt
 ```
-
-## License
-
-This project is for educational purposes.
-
-
